@@ -28,7 +28,7 @@ const MiddleLast = () => {
                 <span>
                   <p className="font-thin">Learn more </p>
                 </span>
-                <span className="mt-1.5 pl-3 text-gray-700">
+                <span className="mt-1.5 pl-3 text-white">
                   <AiOutlineArrowRight></AiOutlineArrowRight>
                 </span>
               </div>

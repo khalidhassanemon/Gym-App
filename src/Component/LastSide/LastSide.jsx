@@ -14,7 +14,7 @@ const LastSide = () => {
     </div>
     <div className="col-md-9">
       <div className="card-body ml-28 mt-5">
-      <h3 className="font-xl">Best full body <br></br> workout to loose fat</h3>
+      <h3 className="text-3xl font-serif ">Best full body <br></br> workout to loose fat</h3>
        <p className=" text-gray-500 w-auto mr-28 text-sm text-justify">Exercise is a very important need for our body. Health and fitness will be obtained if you can do regular exercise and run a healthy routine. Even at home we still have to be diligent in exercising, either alone or with your friends at home. </p>
  <button className="btn btn-active  btn-primary w-52 d-flex mt-1 ">
             Get Started

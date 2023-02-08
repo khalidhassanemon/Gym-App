@@ -13,7 +13,7 @@ const UpperSide = () => {
           <div className="col-md-6">
             <div className="body font-serif">
               <h6 className="title font-bold text-3xl">Healthy in side</h6>
-              <h6 className="text-cyan-700 font-extrabold text-3xl">
+              <h6 className="text-indigo-600 font-extrabold text-3xl">
                 fresh <span className="text-black">outside</span>
               </h6>
               <p className="card-text text-justify text-gray-500 w-96 text-sm">
