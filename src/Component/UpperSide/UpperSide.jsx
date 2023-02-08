@@ -9,7 +9,7 @@ import { SiNike, SiAdidas, SiPuma, SiReebok } from "react-icons/si";
 const UpperSide = () => {
   return (
     <div className=" ml-36 mr-10">
-      <div className="mb-3 max-w-full p-10">
+      <div className=" mb-3 max-w-full p-10">
         <div className="row g-0">
           <div className="col-md-6">
             <div className="body font-serif">
