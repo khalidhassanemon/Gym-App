@@ -6,7 +6,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 const MiddleLast = () => {
   return (
     <div>
-      <div className="ml-40 mr-40 mb-3">
+      <div className="ml-48 mr-40 mb-3">
         <div className="row d-flex bg-gradient-to-r from-sky-500 to-indigo-500 rounded-2xl sm:p-10">
           <div className="col-md-4 d-flex">
             <div className=" mt-4">

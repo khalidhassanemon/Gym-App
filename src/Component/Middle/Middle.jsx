@@ -1,7 +1,7 @@
 import React from "react";
 const Middle = () => {
   return (
-    <div className="ml-36 mr-36">
+    <div className="ml-48 mr-40">
       <div className="row mb-10">
         <div className="col-sm-6 mb-3 mb-sm-0">
           <div className="card ">
