@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="row g-0">
         <div className="col-md-6">
           <div className="card-body">
-         <h6><button className="btn btn-primary text-gray-500 mr-2 ml-3 w-14">Gym </button>baran</h6> 
+         <h6><button className="btn bg-white text-gray-500 mr-2 ml-3 w-14">Gym </button>baran</h6> 
            <p className="text-sm text-gray-400 ml-3">We take care of your health<br></br>with regular exercise </p>
            <span className="footer-title ml-3">Social</span> 
           <div className="d-flex gap-4 ml-3">
